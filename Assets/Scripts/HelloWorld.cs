@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class HelloWorld : MonoBehaviour
 {
-    public int speed = 9;
+    public int speed = 8;
     public GameObject helloText;
 
     // Start is called before the first frame update
